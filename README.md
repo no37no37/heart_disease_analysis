@@ -2,7 +2,7 @@
 
 **1. Import the Libraries and Dataset:**
 
-The project kicks off by importing essential Python libraries for data analysis, including Pandas, Matplotlib, and Seaborn. The dataset, which contains information related to heart disease, is loaded for exploration and analysis.
+The project kicks off by importing essential Python libraries for data analysis, including Pandas, Matplotlib, and Seaborn. The dataset, which contains information related to heart disease, is loaded for exploration and analysis
 
 **2. Display Top 5 Rows of the Dataset:**
 
