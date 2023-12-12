@@ -1,4 +1,4 @@
-**Heart Disease Data Analysis Project**
+# Heart Disease Data Analysis Project
 
 **1. Import the Libraries and Dataset:**
 
